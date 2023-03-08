@@ -1,3 +1,13 @@
+/**
+ * 
+ * @param {number} a 
+ * @param {number} b 
+ * @returns 
+ */
+const add=(a,b)=>{
+  return a+b;
+}
+
 const fs = require('fs');
 const ytdl = require('ytdl-core');
 
